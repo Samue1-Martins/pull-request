@@ -1,4 +1,4 @@
-var nome = document.getElementById('nome');
+var nome = document.getElementById('nome').value;
 var charset = nome.toString();
 
 function iniciar() {
