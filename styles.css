@@ -22,3 +22,10 @@ li {
     text-transform: uppercase;
     font-size: 1.5  rem;
 }
+
+div {
+    width: 100%;
+    height: 100vh;
+    background: url(https://c4.wallpaperflare.com/wallpaper/439/444/53/shrek-donkey-shrek-wallpaper-preview.jpg) no-repeat;
+    background-size: cover;
+}
