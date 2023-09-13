@@ -12,4 +12,8 @@ function iniciar() {
         alert("Nome invalido estamos esperando um nome com mais de 3 caracteres");
         nome = prompt("Digite o nome novamente."); 
     }
+
+    document.getElementById("nome").innerHTML = nome;
 }
+
+
